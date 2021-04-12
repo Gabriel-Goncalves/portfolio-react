@@ -1,0 +1,22 @@
+.not-found-img {
+  width: 38%;
+}
+
+.home-link {
+  width: 15%;
+  align-self: flex-start;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.home-link img{
+  width: 45px;
+}
+
+.not-found-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
